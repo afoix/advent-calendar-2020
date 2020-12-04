@@ -8,6 +8,9 @@ Advent calendar code for the year 2020. We will be postying the solution in Pyth
 * Day 2: Password philosophy [Completed]
 
 # Puzzle day 3
-* Day 3: 
+* Day 3: Toboggan Trajectory [Completed]
+
+# Puzzle day 4
+* Day 4: Passport Processing  [Completed]
 
 
