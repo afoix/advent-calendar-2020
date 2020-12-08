@@ -29,7 +29,7 @@ public class WhatCanContainGoldBag {
                 break;
             }
 
-            // Parsing to figured out the the rules
+            // Parsing to figured out the rules
             Pattern patter = Pattern.compile("^(\\w+ \\w+) bags contain (.+)$");
             Matcher matcher = patter.matcher(line);
             matcher.find();
