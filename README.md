@@ -19,4 +19,19 @@ Advent calendar code for the year 2020. We will be postying the solution in Pyth
 # Puzzle day 6
 * Day 6: Custom Customs  [Completed]
 
+# Puzzle day 7
+* Day 7:  [Completed]
+
+# Puzzle day 8
+* Day 8:  [Completed]
+
+# Puzzle day 9
+* Day 9: [Completed]
+
+# Puzzle day 10
+* Day 10: [Completed]
+
+# Puzzle day 11
+* Day 11: [Completed]
+
 
