@@ -40,4 +40,7 @@ Advent calendar code for the year 2020. We will be postying the solution in Pyth
 # Puzzle day 13
 * Day 13: [Completed]
 
+# Puzzle day 14
+* Day 14: [Completed]
+
 
