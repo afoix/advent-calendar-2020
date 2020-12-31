@@ -49,4 +49,7 @@ Advent calendar code for the year 2020. We will be postying the solution in Pyth
 # Puzzle day 16
 * Day 16: [Completed]
 
+# Puzzle day 17
+* Day 17: [Completed]
+
 
