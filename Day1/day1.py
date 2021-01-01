@@ -1,4 +1,4 @@
-path = "numbersList.txt"
+path = "../Day2/numbersList.txt"
 
 with open(path) as f:
     numbers = [int(line) for line in f]

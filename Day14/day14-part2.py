@@ -19,7 +19,7 @@ def setRecursive(value, address, maskFloat):
         # No floating bits, just set the address directly
         mem[address] = value
 
-with open("Day14/input.txt") as input:
+with open("Day14/bitmaskDebug.txt") as input:
     for line in input:
         if line.startswith("mask"):
             # Just like before, collect bits that are floating and bits we set to 1
