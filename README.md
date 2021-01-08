@@ -55,4 +55,7 @@ Advent calendar code for the year 2020. We will be postying the solution in Pyth
 # Puzzle day 18
 * Day 18: [Completed]
 
+# Puzzle day 19
+* Day 19: [Completed]
+
 
