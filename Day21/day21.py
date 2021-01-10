@@ -4,7 +4,7 @@ allergenToIngredient = {}
 all_ingredients = []
 
 lineRegex = re.compile(r'((?:\w+ )+)\s*\(contains (.*)\)')
-with open('Day21/input.txt') as input:
+with open('Day21/listOfIngredients.txt') as input:
     for line in input:
         match = lineRegex.match(line.strip())
         ingredients = match.group(1).strip().split(' ')
